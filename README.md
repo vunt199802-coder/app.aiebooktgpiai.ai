@@ -42,8 +42,8 @@
 ## Installation
 
 - Desktop Version:
-  - Stable Version (Recommended): [Download](https://koodoreader.com/en)
-  - Developer version: [Download](https://github.com/koodo-reader/koodo-reader/releases/latest) ( With new feature and bug fix, but may induce some unknown bugs)
+  - Stable Version (Recommended): [Download]
+  - Developer version: [Download](https://github.com/vunt199802-coder/koodo-reader/releases/latest) ( With new feature and bug fix, but may induce some unknown bugs)
 - Web Version：[Preview](https://web.koodoreader.com)
 
 - Install with Docker:
